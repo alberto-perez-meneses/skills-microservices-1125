@@ -8,7 +8,7 @@ async function bootstrap() {
 
   app.enableCors();
   const config = new DocumentBuilder()
-    .setTitle('Catalog service API')
+    .setTitle('Catalog service API v1.2')
     .setDescription('The Catalog API description')
     .setVersion('1.0')
     .addTag('Catalog')

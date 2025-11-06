@@ -59,8 +59,8 @@ Cada uno de estos componentes puede ejecutarse en su propio contenedor Docker.
 1.  **Descargar el Repositorio:**
 
     ```bash
-    git clone https://github.com/alberto-perez-meneses/wm-hackathon-codecosystem.git
-    cd wm-hackathon-codecosystem
+    git clone https://github.com/alberto-perez-meneses/skills-microservices-1125.git
+    cd skills-microservices-1125
     ```
 
 2.  ** Opcional Configuración (Archivos `.env`):**
